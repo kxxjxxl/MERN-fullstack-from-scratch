@@ -2,5 +2,26 @@
 
 
 a full stack project to learn:
-mONGODB, eXPRESS, rEACT, nODE,
-all written and build from scratch
+
+## Technologies used
+#### Client-Side
+- ReactJS
+- Redux
+- TailwindCSS
+- SCSS
+- Recharts
+- ViteJS
+- jsPDF
+#### Server-Side
+- ExpressJS
+- Mongoose
+- JWT
+- Google oauth
+- BCrypt
+- Cookie-parser
+#### Database
+- MongoDB
+#### Deployment
+- Netlify - Client
+- Heroku - Server
+- MongoDB Atlas - Database
