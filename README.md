@@ -1,7 +1,8 @@
 # mern-from-scratch
 
 
-a full stack project to learn:
+a full stack project to learn all the skills that i learned and apply them with no prior setup. 
+Although i used stackoverflow a lot haha.
 
 ## Technologies used
 #### Client-Side
